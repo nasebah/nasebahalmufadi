@@ -15,32 +15,32 @@ education:
 email: "na.almufadi@qu.edu.sa"
 highlight_name: true
 interests:
-- Machine Learning
-- Natural Language Processing
-- Machine Translation
+  - Machine Learning
+  - Natural Language Processing 
+
 organizations:
-- name: Qassim University
-  url: https://www.qu.edu.sa
+  - name: Qassim University
+    url: https://www.qu.edu.sa
 role: Lecturer
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/FNasebah
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=-YiP-8IAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/nasebah
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/nasebahalmufadi/
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - display:
+      header: true
+    icon: twitter
+    icon_pack: fab
+    label: Follow me on Twitter
+    link: https://twitter.com/FNasebah
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=-YiP-8IAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/nasebah
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/nasebahalmufadi/
 superuser: true
 title: Nasebah Almufadi
 ---
